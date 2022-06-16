@@ -1,1 +1,2 @@
 this is 3rd file
+making format to file3
