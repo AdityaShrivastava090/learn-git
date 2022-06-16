@@ -1,3 +1,0 @@
-Hello Aditya
-shrivastava
-you uploaded your first repo on git
